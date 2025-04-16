@@ -1,3 +1,4 @@
+<p>Don't ask me how docker works with this, you'll have to rebuild the docker with build commands, this is a private fork modified for someone else I'm leaving public</p>
 <h1 align="center">Welcome to Peppermint Ticket Management 🍵</h1>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-0.2-blue.svg?cacheSeconds=2592000" />
